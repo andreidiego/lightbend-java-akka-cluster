@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="loyalty-service.solutions-000-initial-state" />
+        <module name="loyalty-service.solutions-003-split-brain-resolver" />
+        <module name="loyalty-service" />
+        <module name="loyalty-service.solutions-002-cluster-management" />
+        <module name="loyalty-service.solutions-001-cluster-formation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="loyalty-service" target="1.8" />
+      <module name="loyalty-service.solutions-000-initial-state" target="1.8" />
+      <module name="loyalty-service.solutions-001-cluster-formation" target="1.8" />
+      <module name="loyalty-service.solutions-002-cluster-management" target="1.8" />
+      <module name="loyalty-service.solutions-003-split-brain-resolver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="loyalty-service" options="-parameters -Werror" />
+      <module name="loyalty-service.solutions-000-initial-state" options="-parameters -Werror" />
+      <module name="loyalty-service.solutions-001-cluster-formation" options="-parameters -Werror" />
+      <module name="loyalty-service.solutions-002-cluster-management" options="-parameters -Werror" />
+      <module name="loyalty-service.solutions-003-split-brain-resolver" options="-parameters -Werror" />
+    </option>
+  </component>
+</project>

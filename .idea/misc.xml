@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/exercises/pom.xml" />
+        <option value="$PROJECT_DIR$/solutions/000-initial-state/pom.xml" />
+        <option value="$PROJECT_DIR$/solutions/001-cluster-formation/pom.xml" />
+        <option value="$PROJECT_DIR$/solutions/002-cluster-management/pom.xml" />
+        <option value="$PROJECT_DIR$/solutions/003-split-brain-resolver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

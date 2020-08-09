@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lightbend-java-akka-cluster.iml" filepath="$PROJECT_DIR$/.idea/lightbend-java-akka-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/loyalty-service.iml" filepath="$PROJECT_DIR$/exercises/loyalty-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/000-initial-state/loyalty-service.solutions-000-initial-state.iml" filepath="$PROJECT_DIR$/solutions/000-initial-state/loyalty-service.solutions-000-initial-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/001-cluster-formation/loyalty-service.solutions-001-cluster-formation.iml" filepath="$PROJECT_DIR$/solutions/001-cluster-formation/loyalty-service.solutions-001-cluster-formation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/002-cluster-management/loyalty-service.solutions-002-cluster-management.iml" filepath="$PROJECT_DIR$/solutions/002-cluster-management/loyalty-service.solutions-002-cluster-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/003-split-brain-resolver/loyalty-service.solutions-003-split-brain-resolver.iml" filepath="$PROJECT_DIR$/solutions/003-split-brain-resolver/loyalty-service.solutions-003-split-brain-resolver.iml" />
+    </modules>
+  </component>
+</project>
