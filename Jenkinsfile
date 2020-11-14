@@ -7,7 +7,7 @@ pipeline {
                 HOME="."
             }
             steps {
-                bat 'mvn --version'
+                sh 'mvn --version'
             }
         }
     }
