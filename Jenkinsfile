@@ -7,6 +7,8 @@ pipeline {
                 HOME="."
             }
             steps {
+                sh 'java --version'
+                sh 'which java'
                 sh 'mvn --version'
             }
         }
